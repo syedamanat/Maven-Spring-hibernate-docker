@@ -1,3 +1,6 @@
+![Docker, Maven, Spring, Hibernate, ](https://miro.medium.com/max/512/1*ExcOmgHiWZYPLnmsHBa2Hw.jpeg)
+
+
 <h2>Hi,</h2>
 The purpose for this repo is to deploy commonly used functionalities such as Spring security
 authentication, standard Object bound IO with Hibernate, REST-HATEOAS led development.
