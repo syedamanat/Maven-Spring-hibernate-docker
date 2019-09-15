@@ -21,6 +21,6 @@ The ambition is to develop a repo with pre-made &amp; tested code templates whic
 </ul>
 
 <h5>Feel free to contribute to this, branch rules active.</h5>
-<h6> You can reach me out at <a href="https://twitter.com/devdevsyed">@devdevsyed</a> or <a href="http://syedamanat.me">http://syedamanat.me</a></h6>
+<h6> You can reach me out at <a href="https://twitter.com/devdevsyed" target="_blank">@devdevsyed</a> or <a href="http://syedamanat.me" target="_blank">http://syedamanat.me</a></h6>
 
 
