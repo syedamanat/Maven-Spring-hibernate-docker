@@ -1,21 +1,23 @@
-#Hi,
+<h2>Hi,</h2>
 The purpose for this repo is to deploy commonly used functionalities such as Spring security
 authentication, standard Object bound IO with Hibernate, REST-HATEOAS led development.
- 
-The ambition is to develop a repo with pre-made & tested code templates which can decrease the development time.
-###You can find the API collection below: 
-https://documenter.getpostman.com/view/8809491/SVmtxzVG?version=latest
+ <br/>
+The ambition is to develop a repo with pre-made &amp; tested code templates which can decrease the development time.<br/>
+<h3>You can find the API collection below: </h3>
+<a href="https://documenter.getpostman.com/view/8809491/SVmtxzVG?version=latest">Postman Collection</a>
 
 
-#####Docker file is already set, using below commands you can host it and access on port 9090
-docker build -t maven-template -f .\\.Dockerfile . <br/>
-docker run -p 9090:8080 -d maven-template<br/>
+<h5>Docker file is already set, using below commands you can host it and access on port 9090</h5>
+<ul>
+<li>docker build -t maven-template -f .\\.Dockerfile .  </li>
+<li>docker run -p 9090:8080 -d maven-template </li>
 
-docker ps <br/> 
-docker container exec -it <container_id> /bin/sh<br/>
-cd webapps 
+<li>docker ps </li>
+<li>docker container exec -it &lt;container_id&gt; /bin/sh</li>
+<li>cd webapps </li> 
+</ul>
 
-###Feel free to contribute to this, branch rules active.
-##### You can reach me out at https://twitter.com/devdevsyed or http://syedamanat.me
+<h5>Feel free to contribute to this, branch rules active.</h5>
+<h6> You can reach me out at <a href="https://twitter.com/devdevsyed">@devdevsyed</a> or <a href="http://syedamanat.me">http://syedamanat.me</a></h6>
 
 
